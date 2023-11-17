@@ -1,4 +1,4 @@
-## Final de Estructura de datos
+## Final de Estructuras de datos
 
 ## Enunciado
 Escriba una función que tome un árbol binario y lo atraviese iterativamente utilizando la técnica de recorrido de árbol en orden; 
