@@ -1,7 +1,3 @@
-# FinalEstructuras (Recorrido en orden sin recursividad)
-
-Se trata del enunciado final de la materia Estructuras de datos dinamicas.
-
 
 ## Enunciado
 Escriba una función que tome un árbol binario y lo atraviese iterativamente utilizando la técnica de recorrido de árbol en orden; 
@@ -12,7 +8,7 @@ Los nodos hijos pueden ser nodos BinaryTree en sí, None o Null.
 
 Ejemplo
 Arbol Binario
-[![Arbol](Arbol de ejemplo "Arbol")](github.com/CrisHzz/FinalEstructuras/blob/master/Arbol%20de%20ejemplo.png "Arbol")
+![](https://ibb.co/Y3TJrLS)
 
 
 Salida esperada
