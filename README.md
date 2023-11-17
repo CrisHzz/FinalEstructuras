@@ -12,7 +12,7 @@ Los nodos hijos pueden ser nodos BinaryTree en sí, None o Null.
 
 Ejemplo
 Arbol Binario
-[![Arbol](Arbol de ejemplo "Arbol")](http://https://github.com/CrisHzz/FinalEstructuras/blob/master/Arbol%20de%20ejemplo.png "Arbol")
+[![Arbol](Arbol de ejemplo "Arbol")](github.com/CrisHzz/FinalEstructuras/blob/master/Arbol%20de%20ejemplo.png "Arbol")
 
 
 Salida esperada
