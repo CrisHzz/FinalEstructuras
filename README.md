@@ -1,3 +1,5 @@
+##Final de Estructura de datos
+-Se trata del final de la materia de estructura de datos
 
 ## Enunciado
 Escriba una función que tome un árbol binario y lo atraviese iterativamente utilizando la técnica de recorrido de árbol en orden; 
