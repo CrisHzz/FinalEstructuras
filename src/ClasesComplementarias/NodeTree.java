@@ -1,21 +1,21 @@
 package ClasesComplementarias;
 
-public class Node {
+public class NodeTree {
     private Tree value;
 
-    private Node next;
+    private NodeTree next;
 
-    public Node(Tree value, Node next) {
+    public NodeTree(Tree value, NodeTree next) {
         this.value = value;
         this.next = next;
     }
 
-    public Node(Tree value) {
+    public NodeTree(Tree value) {
         this.value = value;
         this.next = null;
     }
 
-    public Node() {
+    public NodeTree() {
         this.value = null;
         this.next = null;
     }
@@ -28,11 +28,11 @@ public class Node {
         this.value = value;
     }
 
-    public Node getNext() {
+    public NodeTree getNext() {
         return next;
     }
 
-    public void setNext(Node next) {
+    public void setNext(NodeTree next) {
         this.next = next;
     }
 
