@@ -6,9 +6,11 @@ A medida que se atraviesa el árbol, se debe llamar a una función de devolució
 Cada nodo BinaryTree tiene un valor entero, un nodo padre, un nodo hijo izquierdo y un nodo hijo derecho.
 Los nodos hijos pueden ser nodos BinaryTree en sí, None o Null.
 
-Ejemplo
-Arbol Binario
-![](https://ibb.co/Y3TJrLS)
+##Ejemplo de arbol
+[![Arbol-de-ejemplo.png](https://i.postimg.cc/02jf14Vr/Arbol-de-ejemplo.png)](https://postimg.cc/SJ08WgFp)
+
+
+
 
 
 Salida esperada
@@ -19,3 +21,6 @@ callback(1)
 callback(6)
 callback(3)
 callback(7)
+
+## Uml de la funcion
+[![Uml.png](https://i.postimg.cc/yd0G9bM7/Uml.png)](https://postimg.cc/zbXpY0DQ)
