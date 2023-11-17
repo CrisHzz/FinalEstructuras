@@ -7,7 +7,7 @@ A medida que se atraviesa el árbol, se debe llamar a una función de devolució
 Cada nodo BinaryTree tiene un valor entero, un nodo padre, un nodo hijo izquierdo y un nodo hijo derecho.
 Los nodos hijos pueden ser nodos BinaryTree en sí, None o Null.
 
-##Ejemplo de arbol
+## Ejemplo de arbol
 [![Arbol-de-ejemplo.png](https://i.postimg.cc/02jf14Vr/Arbol-de-ejemplo.png)](https://postimg.cc/SJ08WgFp)
 
 
